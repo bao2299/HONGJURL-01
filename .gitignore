@@ -1,0 +1,6 @@
+*.pyc
+*.xml
+.idea/*
+runs/*
+saved_models/*
+log/*
